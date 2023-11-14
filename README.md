@@ -17,4 +17,11 @@ The assignments deal with the following topics.
 This project uses R version 4.3.0 in RStudio 2023.03.0 build 386. Here are the libraries used in this project:
 
 - `tidyverse`: Data Handling
+- `lubridate`: Dates
+- `IntroCompFinR`: Tangency Portfolio & Efficiency Frontier
+- `rootSolve`: Mathematical Optimization
+- `PerformanceAnalytics`: CAPM Functions
+- `knitr`: Output Tables
+- `corrplot`: Correlations Plots
+- `knitr`: Output Tables
 
