@@ -1,10 +1,10 @@
-# Assignments Theory of Finance
+# Theory of Finance Assignments
 
 This repository contains solutions to various assignments on the topic of finance.
 
 ## Overview
 
-The assignments deal with the following topics.
+The assignments deal with the following topics:
 
 - Assignment 1: Return Calculations, Portfolio Choice and Mean-Variance Frontier
 - Assignment 2: CAPM & Risk Management
@@ -23,5 +23,4 @@ This project uses R version 4.3.0 in RStudio 2023.03.0 build 386. Here are the l
 - `PerformanceAnalytics`: CAPM Functions
 - `knitr`: Output Tables
 - `corrplot`: Correlations Plots
-- `knitr`: Output Tables
 
