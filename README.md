@@ -1,6 +1,6 @@
 # Assignments Theory of Finance
 
-This repository contains various assignments on the topic of Theory of Finance.
+This repository contains solutions to various assignments on the topic of finance.
 
 ## Overview
 
@@ -9,8 +9,8 @@ The assignments deal with the following topics.
 - Assignment 1: Return Calculations, Portfolio Choice and Mean-Variance Frontier
 - Assignment 2: CAPM & Risk Management
 - Assignment 3: Asset Pricing Models & Portfolio Choice
-- Assignment 4: Fixed Income
-- Assignment 5: Derivatives
+- Assignment 4: Fixed Income (Interest Rate Calcus, Duration Hedging & Empirics)
+- Assignment 5: Derivatives (Binomial Trees & Black-Scholes)
 
 ## Software und Packages
 
